@@ -1,0 +1,27 @@
+*{
+    background: scroll;
+    background-color: burlywood;
+    font-family: serif;
+    font-size: medium;
+}
+body{
+    position: fixed;
+    align-items: center;
+    text-align: center;
+    
+}
+#title{
+    font-size: x-large;
+    font-style: italic;
+    font-family: serif;
+    font-weight: bold;
+}
+#description{
+    font-size: larger;
+    font-weight: 800;
+}
+fieldset{
+    border-radius: 20, 40,20,40;
+    border-color: black;
+    border-block: 0px,0px,12px,0px;
+}
